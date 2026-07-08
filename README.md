@@ -11,7 +11,7 @@
 
 🔗 Live Demo: https://jillchiu.github.io/react-global-import-profit-simulator/
 
-📂 Source Code: https://github.com/jillchiu/global-import-profit-simulator
+📂 Source Code: https://github.com/jillchiu/react-global-import-profit-simulator
 
 ## 🎯 Project Vision & Why I Built This
 
