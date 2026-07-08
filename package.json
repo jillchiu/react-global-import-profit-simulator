@@ -1,5 +1,6 @@
 {
-  "name": "global-import-profit-simulator",
+  "name": "Global Import Profit Simulator",
+  "homepage": "https://jillchiu.github.io/react-global-import-profit-simulator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
