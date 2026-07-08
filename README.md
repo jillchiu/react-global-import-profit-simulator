@@ -9,9 +9,9 @@
 💾 Import / Export  
 ⚙️ Persistent Settings
 
-🔗 Live Demo: https://xxxx.vercel.app
+🔗 Live Demo: https://jillchiu.github.io/react-global-import-profit-simulator/
 
-📂 Source Code: https://github.com/yourname/global-import-profit-simulator
+📂 Source Code: https://github.com/jillchiu/global-import-profit-simulator
 
 ## 🎯 Project Vision & Why I Built This
 
